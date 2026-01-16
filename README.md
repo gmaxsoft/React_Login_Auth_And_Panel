@@ -1,4 +1,4 @@
-# React Login 
+# React Login
 
 Authentication (JWT Access, Refresh Tokens) and admin panel
 
@@ -6,74 +6,50 @@ Authentication (JWT Access, Refresh Tokens) and admin panel
 
 You can also give this repository a star to show more people and they can use this repository.
 
-
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# Technologie
+# Technologies
 
-Projekt został zbudowany przy użyciu następujących technologii:
+The project was built using the following technologies:
 
-- **React** (v17.0.2) - biblioteka JavaScript do budowy interfejsów użytkownika
-- **React Router DOM** (v6.2.1) - routing dla aplikacji React
-- **Axios** (v0.24.0) - klient HTTP do komunikacji z API
-- **FontAwesome** - biblioteka ikon
+- **React** (v17.0.2) - JavaScript library for building user interfaces
+- **React Router DOM** (v6.2.1) - routing for React applications
+- **Axios** (v0.24.0) - HTTP client for API communication
+- **FontAwesome** - icon library
   - @fortawesome/fontawesome-svg-core (v1.2.36)
   - @fortawesome/free-solid-svg-icons (v5.15.4)
   - @fortawesome/react-fontawesome (v0.1.16)
-- **React Scripts** (v5.0.0) - narzędzia do tworzenia aplikacji React
+- **React Scripts** (v5.0.0) - tools for creating React applications
 
-# Instalacja
+# Installation
 
-Aby zainstalować i uruchomić projekt lokalnie, wykonaj następujące kroki:
+To install and run the project locally, follow these steps:
 
-1. **Sklonuj repozytorium**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/gmaxsoft/react_login_auth_and_panel.git
    ```
 
-2. **Przejdź do katalogu projektu**
+2. **Navigate to the project directory**
    ```bash
    cd react_login_auth_and_panel
    ```
 
-3. **Zainstaluj zależności**
+3. **Install dependencies**
    ```bash
    npm install
    ```
 
-4. **Uruchom serwer deweloperski**
+4. **Start the development server**
    ```bash
    npm start
    ```
 
-   Aplikacja zostanie uruchomiona na `http://localhost:3000`
+   The application will be available at `http://localhost:3000`
 
-5. **Budowanie wersji produkcyjnej** (opcjonalnie)
+5. **Build for production** (optional)
    ```bash
    npm run build
    ```
-
-# ℹ️ How to use this Repository?
-
-1. Clone the repository to your local machine
-
-```bash
-  git clone https://github.com/gmaxsoft/react_login_auth_and_panel.git
-
-```
-2. Navigate to the project directory
-
-```bash
-  cd react_login_auth_and_panel
-```
-3. Install the necessary dependencies
-```bash
-  npm install
-```
-
-4. Start the development server
-```bash
-  npm run start
-```
